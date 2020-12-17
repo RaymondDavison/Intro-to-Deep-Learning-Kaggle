@@ -6,6 +6,6 @@ The lectures can be found on kaggle's website found at the top of each Jupyter n
 
 ## Language: Python
 ### Libraries
-pandas
-sklearn
-tensorflow, keras
+#### pandas
+#### sklearn
+#### tensorflow, keras
