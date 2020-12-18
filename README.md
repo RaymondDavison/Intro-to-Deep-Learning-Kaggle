@@ -8,4 +8,5 @@ The lectures can be found on kaggle's website found at the top of each Jupyter n
 ### Libraries
 #### pandas
 #### sklearn
-#### tensorflow, keras
+#### tensorflow
+### keras
